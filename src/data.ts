@@ -1,6 +1,6 @@
 export const cvData = {
   name: "Thaian Alves de Souza",
-  role: "Analista de Dados",
+  role: "Analista de Dados e Processos",
   contacts: {
     phone: "(24) 98823-2141",
     email: "alvesthaian09@gmail.com",
@@ -8,7 +8,7 @@ export const cvData = {
     linkedin: "https://www.linkedin.com/in/thaian-alves-a74055325/",
     github: "https://github.com/Thaian-lq",
   },
-  summary: "Analista de Dados e BI com experiência em automação de processos, integração de sistemas corporativos e desenvolvimento de dashboards estratégicos para suporte à tomada de decisão. Atuação prática com SQL, Power BI, Python, SAP e Power Platform, criando soluções orientadas a dados para otimização operacional e controle de indicadores.",
+  summary: "Analista de Dados e Processos com experiência em automação, integração de sistemas corporativos e desenvolvimento de dashboards estratégicos para suporte à tomada de decisão. Atuação prática com SQL, Power BI, Python, SAP e Power Platform, criando soluções orientadas a dados para otimização operacional e controle de indicadores. Experiência no acompanhamento de processos produtivos, análise de desempenho operacional, monitoramento de KPIs, identificação de desvios e desenvolvimento de soluções voltadas à melhoria contínua e aumento da eficiência dos processos industriais. Perfil analítico, com foco em resolução de problemas, automação e evolução de processos.",
   skills: {
     "Dados & BI": [
       "SQL",
